@@ -1,0 +1,33 @@
+{
+  "SourceGitCommit": "32819b2a232452b1eac9f2bc113511ba622c07a0",
+  "Derivation": "TaskName is the literal existing BIDS filename task identifier, not an inferred experiment description. All original tracked entries remain unchanged.",
+  "AddedSidecars": [
+    {
+      "path": "sub-S020/meg/sub-S020_task-RiskyDecision_run-10_meg.json",
+      "task_token": "RiskyDecision",
+      "source_files": [
+        "sub-S020/meg/sub-S020_task-RiskyDecision_run-10_meg.ds"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "2d4ed3e1188bc658c2cc82f26f8b1fe19ad322fe086e1511162753b9aa25171c"
+    },
+    {
+      "path": "sub-S020/meg/sub-S020_task-RiskyDecision_run-11_meg.json",
+      "task_token": "RiskyDecision",
+      "source_files": [
+        "sub-S020/meg/sub-S020_task-RiskyDecision_run-11_meg.ds"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "2d4ed3e1188bc658c2cc82f26f8b1fe19ad322fe086e1511162753b9aa25171c"
+    },
+    {
+      "path": "sub-S020/meg/sub-S020_task-RiskyDecision_run-13_meg.json",
+      "task_token": "RiskyDecision",
+      "source_files": [
+        "sub-S020/meg/sub-S020_task-RiskyDecision_run-13_meg.ds"
+      ],
+      "known_applicable_metadata": [],
+      "new_sha256": "2d4ed3e1188bc658c2cc82f26f8b1fe19ad322fe086e1511162753b9aa25171c"
+    }
+  ]
+}
